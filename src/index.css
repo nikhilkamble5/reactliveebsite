@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar{
+  background-color:white !important;
+}
+
+.navbar-brand{
+  font-size: 1.9rem !important;
+  color: #565387;
+}
+.navbar a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387 ;
+}
+.navbar a:hover{
+  color: #3498db !important;
+
+}
+
+@keyframes verySmoothBounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0); /* Return to original position */
+  }
+  40% {
+    transform: translateY(-10px); /* Smaller bounce for smoother effect */
+  }
+  60% {
+    transform: translateY(-5px); /* Gentle second bounce */
+  }
+}
+
+.very-smooth-bounce {
+  animation: verySmoothBounce 5s ease-in-out infinite; /* Longer duration for slower animation */
+}
