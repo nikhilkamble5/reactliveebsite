@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactliveebsite/static/css/main.41a08a51.css",
+    "main.js": "/reactliveebsite/static/js/main.277ca8eb.js",
+    "static/js/453.ed3810f9.chunk.js": "/reactliveebsite/static/js/453.ed3810f9.chunk.js",
+    "static/media/2.png": "/reactliveebsite/static/media/2.69697d7f6b46c1a0de62.png",
+    "static/media/marketing.jpg": "/reactliveebsite/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/reactliveebsite/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/reactliveebsite/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/reactliveebsite/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/reactliveebsite/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/reactliveebsite/static/media/s1.8e51e67dff71d6464727.jpg",
+    "index.html": "/reactliveebsite/index.html",
+    "main.41a08a51.css.map": "/reactliveebsite/static/css/main.41a08a51.css.map",
+    "main.277ca8eb.js.map": "/reactliveebsite/static/js/main.277ca8eb.js.map",
+    "453.ed3810f9.chunk.js.map": "/reactliveebsite/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a08a51.css",
+    "static/js/main.277ca8eb.js"
+  ]
+}
